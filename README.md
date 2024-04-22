@@ -1,3 +1,4 @@
+! [logo](Green Watercolour Opening Soon Banner.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=800&size=31&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Adarsh+Choudhary.;I'm+a+Coder.;I'm+a+Full-Stack+Developer.;I'm+a+Front-End+Developer." alt="Typing SVG" /></a>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
