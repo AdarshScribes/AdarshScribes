@@ -1,5 +1,5 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=800&size=31&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Adarsh+Choudhary.;I'm+a+Coder.;I'm+a+Full-Stack+Developer.;I'm+a+Front-End+Developer." alt="Typing SVG" /></a>
+![logo](https://github.com/AdarshScribes/AdarshScribes/blob/main/Green%20Watercolour%20Opening%20Soon%20Banner.jpeg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=800&size=31&pause=1000&color=F31C4A&center=true&vCenter=true&random=false&width=435&lines=I'm+Adarsh+Choudhary.;I'm+a+Coder.;I'm+a+Full-Stack+Developer.;I'm+a+Front-End+Developer." alt="Typing SVG" /></a>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
