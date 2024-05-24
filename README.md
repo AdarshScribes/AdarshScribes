@@ -13,7 +13,7 @@
 
 - 📝 I am the author of [https://www.amazon.com/UNWIRING-SAPIENS-Escaping-Tesseract-Lies-ebook/dp/B0CN6N6ZG5](https://www.amazon.com/UNWIRING-SAPIENS-Escaping-Tesseract-Lies-ebook/dp/B0CN6N6ZG5)
 
-- 💬 Ask me about **Front end frameworks**
+- 💬 Ask me about **Frontend & Backend frameworks**
 
 - 📫 How to reach me **cadarsh815@gmail.com**
 
