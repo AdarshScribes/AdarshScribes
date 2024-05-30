@@ -7,9 +7,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **React.Js**
+- 🔭 I’m currently working on **Express**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📝 I am the author of [https://www.amazon.com/UNWIRING-SAPIENS-Escaping-Tesseract-Lies-ebook/dp/B0CN6N6ZG5](https://www.amazon.com/UNWIRING-SAPIENS-Escaping-Tesseract-Lies-ebook/dp/B0CN6N6ZG5)
 
